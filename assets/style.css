@@ -31,3 +31,8 @@ ul {
         box-shadow: 5px 10px #888888;
  
   }
+
+  p {
+    text-align: center;
+    font-size: 30px;
+  }
